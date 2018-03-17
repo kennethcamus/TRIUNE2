@@ -14,7 +14,7 @@
 	<!-- page specific plugin styles -->
 </head>
  
-<body class="no-skin">
+<body class="no-skin" background="http://celebwallpapers.net/wp-content/uploads/2018/02/free-background-images-download-for-website-best-of-website-background-download-free-stunning-backgrounds-for-of-free-background-images-download-for-website.jpg">
 <div id="navbar" class="navbar navbar-default">
 
 </div>

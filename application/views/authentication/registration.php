@@ -1,5 +1,5 @@
 
-<div class="col-lg-9 col-lg-offset-3">
+<div class="col-lg-9 col-lg-offset-3" style="color:white">
     <h3>TRIUNE</h3>
     <h6>Please enter the required information below.</h6>     
 

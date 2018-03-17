@@ -161,7 +161,7 @@ class triuneMain extends MY_Controller {
  
                     echo $message; //send this in email
 					
-					//$this->_sendMail($toEmail ="rdlagdaan@gmail.com", $subject = "token created", $message);
+					$this->_sendMail($toEmail ="mkennethbc@gmail.com", $subject = "token created", $message);
 
 
 				} else {
@@ -347,7 +347,7 @@ class triuneMain extends MY_Controller {
 			$message .= '<strong>A password reset has been requested for this email account</strong><br>';
 			$message .= '<strong>Please click:</strong> ' . $link;             
 	
-			//$this->_sendMail($toEmail ="rdlagdaan@gmail.com", $subject = "token created", $message);
+			$this->_sendMail($toEmail ="mkennethbc@gmail.com", $subject = "token created", $message);
 			
 			echo $message; //send this through mail
 			//exit;
